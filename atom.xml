@@ -3,11 +3,11 @@
   <title>WA_</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://walgebra.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://walgebra.github.io/"/>
   <updated>2023-08-06T08:51:24.804Z</updated>
-  <id>http://example.com/</id>
+  <id>https://walgebra.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/08/06/hello-world/"/>
-    <id>http://example.com/2023/08/06/hello-world/</id>
+    <link href="https://walgebra.github.io/2023/08/06/hello-world/"/>
+    <id>https://walgebra.github.io/2023/08/06/hello-world/</id>
     <published>2023-08-06T08:51:24.804Z</published>
     <updated>2023-08-06T08:51:24.804Z</updated>
     
